@@ -1,0 +1,11 @@
+{
+  "files": {
+    "main.js": "/bitcoinExchangeRate/static/js/main.12eba2e9.js",
+    "static/media/pngwing.com.png": "/bitcoinExchangeRate/static/media/pngwing.com.ea513a9414ec0abf998f.png",
+    "index.html": "/bitcoinExchangeRate/index.html",
+    "main.12eba2e9.js.map": "/bitcoinExchangeRate/static/js/main.12eba2e9.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.12eba2e9.js"
+  ]
+}
